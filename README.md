@@ -6,7 +6,7 @@ This project is a **static Udemy website clone** built using only **HTML and CSS
 
 ## 🌐 Live Demo
 🔗 **Live Website:**  
-[Click here to view the live demo]
+[Click here to view the live demo] (https://sankarshan3108-fsd.github.io/Udemy-Clone/)
 
 ## 📸 Screenshots
 
